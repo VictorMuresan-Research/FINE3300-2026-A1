@@ -1,6 +1,6 @@
 # FINE3300 Assignment #1 - Fall 2026
 ### Repository for FINE 3300 (Python For Finance Professionals) - Assignment #1. 
-### Includes 2 projects coded in Python:
+#### Includes 2 projects coded in Python:
  1. USD & CAD Exchange Rate Calculator (No AI)
  2. Exchange Rate Calculator (Vibe Coded with ChatGPT)
 
